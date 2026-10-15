@@ -10,7 +10,7 @@
   <br/>
 
   <!-- Featured Core Tech Stack (Big Animated Icons) -->
-  <h3><font color="#9b5de5">⚡ Core Ecosystem & Languages</font></h3>
+  <h3><font color="#9b5de5"> Core Ecosystem & Languages</font></h3>
   <br/>
 
   <p align="center">
@@ -28,7 +28,7 @@
   <br/>
 
   <!-- Extended Tech Stack & Databases Card Grid -->
-  <h3><font color="#9b5de5">🗄️ Multi-Cluster Databases & Tools</font></h3>
+  <h3><font color="#9b5de5"> Multi-Cluster Databases & Tools</font></h3>
   <br/>
 
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
   <br/><br/><br/>
 
   <!-- Bot Ecosystem & Frameworks (Custom Large Animated Frames) -->
-  <h3><font color="#9b5de5">🤖 Bot Frameworks & Engine</font></h3>
+  <h3><font color="#9b5de5"> Bot Frameworks & Engine</font></h3>
   <br/>
 
   <p align="center">
