@@ -19,7 +19,7 @@
   <p>
     <b>Crafting sleek web experiences, powerful Discord bots, and high-performance software.</b>
     <br/>
-    <sub>From interactive frontends to backend systems — built with precision, performance, and a little purple.</sub>
+    <sub>From interactive frontends to backend systems - built with precision, performance, and a little purple.</sub>
   </p>
 
   <br/>
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 💜 Core Languages
+<h2 align="center">Core Languages</h2>
 
 <img src="https://skillicons.dev/icons?i=js,ts,rust,python,html,css&theme=dark&perline=6" />
 
@@ -46,7 +46,7 @@
 
 </div>
 
-## ⚡ Frontend Ecosystem
+<h2 align="center">Frontend Ecosystem</h2>
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 </div>
 
-## 🛠️ Backend, Runtimes & Frameworks
+<h2 align="center">Backend, Runtimes & Frameworks</h2>
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 </div>
 
-## 🤖 Discord Bots & Automation
+<h2 align="center">Discord Bots & Automation</h2>
 
 <div align="center">
 
@@ -107,8 +107,7 @@
 
 </div>
 
-## 🗄️ Databases & Infrastructure
-
+<h2 align="center">Databases & Infrastructure</h2>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,firebase,supabase,docker,githubactions,git&theme=dark&perline=10" />
@@ -121,7 +120,7 @@
 
 </div>
 
-## 🌀 Currently Exploring
+<h2 align="center">Currently Exploring</h2>
 
 <div align="center">
 
@@ -129,56 +128,18 @@
 
 </div>
 
----
-
-## 📈 GitHub Activity
-
+<h2 align="center">Contact With Me</h2>
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d001a&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&ring_color=7b2cbf&include_all_commits=true" alt="GitHub Stats" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d001a&title_color=c77dff&text_color=e0aaff&langs_count=8" alt="Most Used Languages" />
-
-  <br/><br/>
-
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d001a&ring=9d4edd&fire=c77dff&currStreakLabel=e0aaff&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=9d8bb8" alt="GitHub Contribution Streak" />
-
-  <br/><br/>
-
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d001a&color=e0aaff&line=9d4edd&point=c77dff&area=true&area_color=3c096c&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</div>
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 💌 Connect With Me
-
 <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
   <img src="https://img.shields.io/badge/Discord-striderant-10002b?style=for-the-badge&logo=discord&logoColor=e0aaff&labelColor=08000f" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=5a189a&label=PROFILE+VIEWS" alt="Profile Views" />
-
+</div>
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002b,40:5a189a,75:240046,100:05000a&height=130&section=footer&animation=fadeIn" />
 
+<div align="center">
 <sub>🖤 Built with logic. Styled with purpose. Powered by curiosity. 💜</sub>
 
 </div>
